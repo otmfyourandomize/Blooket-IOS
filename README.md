@@ -1,8 +1,8 @@
 # Blooket-IOS
 
 ## Credits 👨‍👩‍👧‍👦
->Thanks to Jod for writing the scripts and making them! & also, Thanks to Konz for bringing them back to github, this is >not copyright, the scripts used in this project is rightfully theirs, all credits to Jod & Konz.
-
+>Thanks to Jod for writing the scripts and making them! & also, Thanks to Konz for bringing them back to github, I, otmfyourandomize am not the owner of the code in this repo & project, the scripts used in this project is rightfully theirs accounted for, credits to Jod & Konz for their hard work.
+>
 ### Version 1.1
 >[shortcut-link](Beta/shortcut-link)
 >
